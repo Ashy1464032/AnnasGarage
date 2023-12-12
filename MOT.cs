@@ -43,6 +43,10 @@ namespace AnnasGarage
             }
 
             Form1.TotalBill += (double)numericUpDown2.Value * 3.60;
+
+            Bill bill = new Bill();
+            bill.Show();
+            Hide();
         }
     }
 }
