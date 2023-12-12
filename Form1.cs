@@ -12,6 +12,7 @@ namespace AnnasGarage
 {
     public partial class Form1 : Form
     {
+        public static String[,] ReciptItems = {{"","",""},{"","",""},{"","",""} };
         public static String CustName;
         public static String JobNum;
         public static Double TotalBill;
