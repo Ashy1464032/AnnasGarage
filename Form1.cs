@@ -10,11 +10,23 @@ using System.Windows.Forms;
 
 namespace AnnasGarage
 {
-  public partial class Form1 : Form
-  {
-    public Form1()
+    public partial class Form1 : Form
     {
-      InitializeComponent();
+        public static String CustName;
+        public static String JobNum;
+        public static Double TotalBill;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CustName = textBox1.Text;
+            JobNum = textBox2.Text;
+            JobSelection jobSelection = new JobSelection();
+            jobSelection.Show();
+            Hide();
+        }
     }
-  }
 }
