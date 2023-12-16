@@ -52,6 +52,12 @@
         <Compile Include="Bill.Designer.cs">
           <DependentUpon>Bill.cs</DependentUpon>
         </Compile>
+        <Compile Include="CoolantTopup.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="CoolantTopup.Designer.cs">
+          <DependentUpon>CoolantTopup.cs</DependentUpon>
+        </Compile>
         <Compile Include="Form1.cs">
             <SubType>Form</SubType>
         </Compile>
