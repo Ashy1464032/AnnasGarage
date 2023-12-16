@@ -25,7 +25,9 @@ namespace AnnasGarage
             }
             if (radioButton2.Checked)
             {
-                
+                CoolantTopup coolantTopup = new CoolantTopup();
+                coolantTopup.Show();
+                Hide();
             }
             if (radioButton3.Checked)
             {

@@ -67,7 +67,7 @@ namespace AnnasGarage
             this.dataGridView1.AllowUserToResizeRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] { this.Item, this.Amount, this.Price });
-            this.dataGridView1.Location = new System.Drawing.Point(99, 219);
+            this.dataGridView1.Location = new System.Drawing.Point(97, 169);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RightToLeft = System.Windows.Forms.RightToLeft.No;

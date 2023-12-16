@@ -17,10 +17,13 @@ namespace AnnasGarage
             textBox1.Text = Form1.TotalBill.ToString("C");
 
             dataGridView1.Rows.Add(Form1.ReciptItems[0,0],Form1.ReciptItems[0,1],Form1.ReciptItems[0,2]);
-            dataGridView1.Rows.Add(Form1.ReciptItems[1,0],Form1.ReciptItems[1,1],Form1.ReciptItems[1,2]);
-            if (Form1.ReciptItems[2,0] != "")
+            if (Form1.ReciptItems[1, 0] != "")
             {
-                dataGridView1.Rows.Add(Form1.ReciptItems[2,0],Form1.ReciptItems[2,1],Form1.ReciptItems[2,2]);
+                dataGridView1.Rows.Add(Form1.ReciptItems[1,0],Form1.ReciptItems[1,1],Form1.ReciptItems[1,2]);
+                if (Form1.ReciptItems[2,0] != "")
+                {
+                    dataGridView1.Rows.Add(Form1.ReciptItems[2,0],Form1.ReciptItems[2,1],Form1.ReciptItems[2,2]);
+                }
             }
         }
 

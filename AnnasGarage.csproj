@@ -81,6 +81,9 @@
         <EmbeddedResource Include="Bill.resx">
           <DependentUpon>Bill.cs</DependentUpon>
         </EmbeddedResource>
+        <EmbeddedResource Include="CoolantTopup.resx">
+          <DependentUpon>CoolantTopup.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
         </EmbeddedResource>
