@@ -31,7 +31,9 @@ namespace AnnasGarage
             }
             if (radioButton3.Checked)
             {
-                
+                OilChange oilChange = new OilChange();
+                oilChange.Show();
+                Hide();
             }
             if (radioButton4.Checked)
             {

@@ -76,6 +76,12 @@
         <Compile Include="MOT.Designer.cs">
           <DependentUpon>MOT.cs</DependentUpon>
         </Compile>
+        <Compile Include="OilChange.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="OilChange.Designer.cs">
+          <DependentUpon>OilChange.cs</DependentUpon>
+        </Compile>
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
         <EmbeddedResource Include="Bill.resx">
@@ -92,6 +98,9 @@
         </EmbeddedResource>
         <EmbeddedResource Include="MOT.resx">
           <DependentUpon>MOT.cs</DependentUpon>
+        </EmbeddedResource>
+        <EmbeddedResource Include="OilChange.resx">
+          <DependentUpon>OilChange.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Properties\Resources.resx">
             <Generator>ResXFileCodeGenerator</Generator>

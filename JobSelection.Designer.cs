@@ -153,7 +153,7 @@ namespace AnnasGarage
             this.MaximizeBox = false;
             this.Name = "JobSelection";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "JobSelection";
+            this.Text = "Anna\'s Garage";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.JobSelection_FormClosed);
             this.Load += new System.EventHandler(this.JobSelection_Load);
             this.ResumeLayout(false);
