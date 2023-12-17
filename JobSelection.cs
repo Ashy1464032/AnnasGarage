@@ -49,7 +49,9 @@ namespace AnnasGarage
             }
             if (radioButton6.Checked)
             {
-                
+                WasherFluid washerFluid = new WasherFluid();
+                washerFluid.Show();
+                Hide();
             }
         }
 
