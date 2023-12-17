@@ -37,7 +37,9 @@ namespace AnnasGarage
             }
             if (radioButton4.Checked)
             {
-                
+                WiperBlades wiperBlades = new WiperBlades();
+                wiperBlades.Show();
+                Hide();
             }
             if (radioButton5.Checked)
             {

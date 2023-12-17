@@ -56,7 +56,7 @@ namespace AnnasGarage
             // 
             this.radioButton1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(135)))), ((int)(((byte)(135)))));
-            this.radioButton1.Location = new System.Drawing.Point(205, 78);
+            this.radioButton1.Location = new System.Drawing.Point(222, 83);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(98, 34);
             this.radioButton1.TabIndex = 1;
@@ -68,7 +68,7 @@ namespace AnnasGarage
             // 
             this.radioButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(135)))), ((int)(((byte)(135)))));
-            this.radioButton2.Location = new System.Drawing.Point(79, 118);
+            this.radioButton2.Location = new System.Drawing.Point(96, 123);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(342, 34);
             this.radioButton2.TabIndex = 2;
@@ -80,7 +80,7 @@ namespace AnnasGarage
             // 
             this.radioButton4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(135)))), ((int)(((byte)(135)))));
-            this.radioButton4.Location = new System.Drawing.Point(155, 198);
+            this.radioButton4.Location = new System.Drawing.Point(172, 203);
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(192, 34);
             this.radioButton4.TabIndex = 4;
@@ -92,7 +92,7 @@ namespace AnnasGarage
             // 
             this.radioButton3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(135)))), ((int)(((byte)(135)))));
-            this.radioButton3.Location = new System.Drawing.Point(110, 158);
+            this.radioButton3.Location = new System.Drawing.Point(127, 163);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(278, 34);
             this.radioButton3.TabIndex = 3;
@@ -104,7 +104,7 @@ namespace AnnasGarage
             // 
             this.radioButton6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(135)))), ((int)(((byte)(135)))));
-            this.radioButton6.Location = new System.Drawing.Point(155, 278);
+            this.radioButton6.Location = new System.Drawing.Point(172, 283);
             this.radioButton6.Name = "radioButton6";
             this.radioButton6.Size = new System.Drawing.Size(187, 34);
             this.radioButton6.TabIndex = 6;
@@ -116,7 +116,7 @@ namespace AnnasGarage
             // 
             this.radioButton5.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(135)))), ((int)(((byte)(135)))), ((int)(((byte)(135)))));
-            this.radioButton5.Location = new System.Drawing.Point(175, 238);
+            this.radioButton5.Location = new System.Drawing.Point(192, 243);
             this.radioButton5.Name = "radioButton5";
             this.radioButton5.Size = new System.Drawing.Size(128, 34);
             this.radioButton5.TabIndex = 5;
@@ -127,7 +127,7 @@ namespace AnnasGarage
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(155, 339);
+            this.button1.Location = new System.Drawing.Point(172, 344);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(187, 48);
             this.button1.TabIndex = 7;
