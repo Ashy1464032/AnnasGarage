@@ -60,7 +60,7 @@ namespace AnnasGarage
             if (numericUpDown1.Value != 0){
                 Form1.TotalBill += (double)numericUpDown2.Value * 3.60;
                 Form1.ReciptItems[2, 0] = "Tail Lights";
-                Form1.ReciptItems[2, 1] = numericUpDown1.Value.ToString();
+                Form1.ReciptItems[2, 1] = numericUpDown2.Value.ToString();
                 Form1.ReciptItems[2, 2] = ((double)numericUpDown2.Value * 3.60).ToString("C");
             }
             else

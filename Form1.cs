@@ -12,6 +12,7 @@ namespace AnnasGarage
 {
     public partial class Form1 : Form
     {
+        
         public static String[,] ReciptItems = {{"","",""},{"","",""},{"","",""} };
         public static String CustName;
         public static String JobNum;
@@ -28,6 +29,11 @@ namespace AnnasGarage
             JobSelection jobSelection = new JobSelection();
             jobSelection.Show();
             Hide();
+        }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
