@@ -1,14 +1,21 @@
-# Annas Garage
+# Anna's Garage
 
-This is a Basic documentation for the Anna's Garage Project For college.
+## How To
 
-## Installation
 
-Download and extract The [Anna's Garage zip File](https://github.com/Ashy1464032/AnnasGarage/releases/tag/v1.0.0)
+1. First step is to enter your customer name and job number and click the button below
+<img src="./Images/LandingForm.PNG" alt="Landing Form" height="32px" width="32px" />
 
-## How to use
+2. Select The job you wish to do
+<img src="./Images/JobSelection.PNG" alt="Job Selection Form" height="32px" />
 
-1. When opening the application you are prompted with a 2 text boxes 
-2. Enter the value to the corresponding textbox and go to the next form
-3. you click the button and select a radio button that represents the job you want
-4. Select all the configs of the job and go to the bill form
+in this example I'll use the MOT job
+
+<img src="./Images/MOTForm.PNG" alt="MOT Job Form" height="32px" />
+
+3. Select the options on the job form and click the Bill for button
+
+4. Afterward it will being you to a final bill form with a summary of what you bought and the total cost
+
+<img src="./Images/BillForm.PNG" alt="Bill Form" height="32px" />
+
