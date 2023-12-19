@@ -4,7 +4,7 @@
 
 
 1. First step is to enter your customer name and job number and click the button below
-<img src="./Images/LandingForm.PNG" alt="Landing Form" height="32px"/>
+<img src="./Images/LandingForm.PNG" alt="Landing Form"/>
 
 2. Select The job you wish to do
 <img src="./Images/JobSelection.PNG" alt="Job Selection Form"/>
